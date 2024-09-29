@@ -1,0 +1,76 @@
+/* Style inputs with type="text", type="email"and textareas */
+input[type=text],
+input[type=email],
+textarea {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    box-shadow: 3px 3px #0c0c0c;
+    border-radius: 8px;
+    border: 1px solid #0c0c0c;
+}
+
+/* Style the submit button with a specific background color etc */
+button[type=submit] {
+    background-color: #0c0c0c;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 1000;
+    font-size: 20px
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+button[type=submit]:hover {
+    color: #d33682 !important;
+}
+
+img {
+    margin-top: -60px;
+    border-radius: 40px;
+    border: 2px solid #0c0c0c;
+}
+/* Sidebar */
+.st-emotion-cache-6qob1r {
+    background-color: #0c0c0c;
+
+}
+
+
+
+a {
+    background-color: #0c0c0c;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-weight: 800;
+    color: white !important;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #6f0909 !important;
+    text-decoration: none;
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+
+.st-emotion-cache-1sno8jx, e1nzilvr4 {
+    text-align: center;
+}
+
+.st-emotion-cache-uzeiqp, e1nzilvr4 {
+    text-align: center;
+}

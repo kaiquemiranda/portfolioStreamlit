@@ -41,7 +41,7 @@ def inicio():
             unsafe_allow_html=True)
         col1, col2 = st.columns([1, 2])
         with col1:
-            st.image('img/dashML.png', width=400)
+            st.image('img/Dashboard.png', width=400)
             st.markdown("Tecnologias Utilizadas: Python, Streamlit, Pandas, Numpy, Plotly, excel")
         with col2:
             st.markdown(

@@ -31,7 +31,7 @@ def inicio():
         with col2:
             st.markdown(f"<h1 style=' text-align: center; font-size: 25px;  margin-top: -80px; margin-left: 30px;'>{metheora}</h1>",
                         unsafe_allow_html=True)
-            st.write("[conheça o projeto](https://metheora.streamlit.app/)")
+            st.write("[Conheça o projeto](https://metheora.streamlit.app/)")
 
     with st.container():
         st.markdown("----")
@@ -48,4 +48,4 @@ def inicio():
                 f"<h1 style=' text-align: center; font-size: 25px;  margin-top: -80px; margin-left: 30px;'>{analiseVendas}</h1>",
                 unsafe_allow_html=True)
             st.write(
-                "[conheça o projeto](https://dashboard-mercadolivre.streamlit.app/)")
+                "[Conheça o projeto](https://dashboard-mercadolivre.streamlit.app/)")

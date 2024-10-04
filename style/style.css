@@ -46,6 +46,8 @@ img {
 
 
 a {
+    display: flex;
+    justify-content: center;
     background-color: #0c0c0c;
     color: white;
     padding: 12px 20px;

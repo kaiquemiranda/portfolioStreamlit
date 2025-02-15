@@ -79,3 +79,9 @@ hr {
 .st-emotion-cache-uzeiqp, e1nzilvr4 {
     text-align: center;
 }
+
+.custom-image img {
+    width: 400px;  /* Largura fixa */
+    height: 200px; /* Altura fixa */
+    object-fit: cover; /* Mantém a proporção sem distorcer */
+}
